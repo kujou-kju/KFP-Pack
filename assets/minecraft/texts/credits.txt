@@ -1,4 +1,19 @@
 [C]§f============
+[C]§eKFP Pack Team
+[C]§f============
+
+§7Original Creator
+§f          Kujou
+
+§7Contributors
+§f          kisachi5
+
+§7We're using resources from
+§f          ReducedTo21 - Diamond Sword and Elytra Desin
+
+
+
+[C]§f============
 [C]§eMinecraft Team
 [C]§f============
 
