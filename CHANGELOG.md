@@ -10,6 +10,14 @@ Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of
 * Optional
 ```
 
+### 21y01w3 (current)
+- revert changes from previous snapshot
+- changed Drowned Skin with Gura and Zombie with Ollie
+- changed sakura leaves color
+- applied sakura colormap on almost all birch items
+- added language support for de-de, en-us (en-gb pending) - replacing birch translations to sakura translations
+- added Pack Credits to MC Credits.txt
+
 ### 21y01w2
 - changed the pack icon with the bucket logo of KFP
 
