@@ -5,4 +5,4 @@
 a Kiara and Hololive themed Resource Pack for Minecraft
 
 ## Release
-You can find the newest Snapshots [here](https://github.com/kujxu/KFPPack/releases/latest)
+You can find the newest Snapshots [here](https://github.com/kujxu/KFP-Pack/releases/latest)
