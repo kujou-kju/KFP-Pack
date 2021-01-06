@@ -10,6 +10,7 @@
 
 §7We're using resources from
 §f          ReducedTo21 - Diamond Sword, Elytra Desin, Gura und Olli Skins
+§f          Sea_Kerman - Netherite Sword
 
 
 
