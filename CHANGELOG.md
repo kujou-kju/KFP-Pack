@@ -11,8 +11,14 @@ Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of
 ```
 
 ### 21y01w4 (current)
-- Added Kiara-themed Netherite Sword
+- added kfp pack info into windows title (de-de, en-us, en-gb and ja-jp (wip) only)
+- added japanese language support for Sakura Items, Discs and more (WIP)
+- replaced baked potato with KFP Frenc Fries/Chips/Pommes
+- added a few new splash texts
+- replaced discs 13 and cat with hinotori and wah wah world
+- Added Kiara-themed Netherite Sword made by Sea kerman (mentioned in credits.txt now)
 - Minor language fixes
+- fixed options background getting back the orange wool background
 
 ### 21y01w3
 - revert changes from previous snapshot
@@ -21,6 +27,7 @@ Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of
 - applied sakura colormap on almost all birch items
 - added language support for de-de, en-us (en-gb pending) - replacing birch translations to sakura translations
 - added Pack Credits to MC Credits.txt
+- changed vanilla gui textures with faithful ones (preparing for editing soon)
 
 ### 21y01w2
 - changed the pack icon with the bucket logo of KFP
