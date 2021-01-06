@@ -15,5 +15,9 @@
     "block.minecraft.birch_button": "Kirschholzknopf",
     "block.minecraft.birch_door": "Kirschholztür",
     "block.minecraft.birch_sign": "Kirschholzschild",
-    "item.minecraft.birch_boat": "Kirschholzboot"
+    "item.minecraft.birch_boat": "Kirschholzboot",
+    "title.multiplayer.lan": "Mehrspieler (LAN) | Kiara Fried Phoenix Pack (Snapshot 21y01w4)",
+    "title.multiplayer.other": "Mehrspieler (Drittanbieter-Server) | Kiara Fried Phoenix Pack (Snapshot 21y01w4)",
+    "title.multiplayer.realms": "Mehrspieler (Realms) | Kiara Fried Phoenix Pack (Snapshot 21y01w4)",
+    "title.singleplayer": "Einzelspieler | Kiara Fried Phoenix Pack (Snapshot 21y01w4)"
 }

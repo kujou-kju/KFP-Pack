@@ -15,5 +15,9 @@
     "block.minecraft.birch_button": "Cherry Tree Button",
     "block.minecraft.birch_door": "Cherry Tree Door",
     "block.minecraft.birch_sign": "Cherry Tree Sign",
-    "item.minecraft.birch_boat": "Cherry Tree Boat"
+    "item.minecraft.birch_boat": "Cherry Tree Boat",
+    "title.multiplayer.lan": "Multiplayer (LAN) | Kiara Fried Phoenix Pack (Snapshot 21y01w4)",
+    "title.multiplayer.other": "Multiplayer (3rd-party Server) | Kiara Fried Phoenix Pack (Snapshot 21y01w4)",
+    "title.multiplayer.realms": "Multiplayer (Realms) | Kiara Fried Phoenix Pack (Snapshot 21y01w4)",
+    "title.singleplayer": "Singleplayer | Kiara Fried Phoenix Pack (Snapshot 21y01w4)"
 }
