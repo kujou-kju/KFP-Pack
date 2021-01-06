@@ -9,6 +9,7 @@ Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of
 - Revision 1 (updated/fixed version released on same day)
 * Optional
 ```
+
 ### 21y01w4 (current)
 - Added Kiara-themed Netherite Sword
 - Minor language fixes
