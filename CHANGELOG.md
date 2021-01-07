@@ -10,7 +10,10 @@ Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of
 * Optional
 ```
 
-### 21y01w4 (current)
+### 21y01w5
+coming soon
+
+### 21y01w4
 - added kfp pack info into windows title (de-de, en-us, en-gb and ja-jp (wip) only)
 - added japanese language support for Sakura Items, Discs and more (WIP)
 - replaced baked potato with KFP Frenc Fries/Chips/Pommes
