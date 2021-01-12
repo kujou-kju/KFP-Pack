@@ -4,14 +4,21 @@
 ```
 Info - Snapshot Version Syntax:
 
+LEGACY:
 <year>y<week>w<day of week>r<revision-count*>
 Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of week)
 - Revision 1 (updated/fixed version released on same day)
 * Optional
+
+NEW:
+since 12.01.2020 same as Minecraft Snapshots
+- see https://minecraft.gamepedia.com/Java_Edition_version_history/Development_versions for Syntax
 ```
 
-### 21y01w5
-coming soon
+### 21w02a
+- changed cooked chicken to kfp bucket
+- exclude all sakura content to an additional pack ("addon")
+- changed Snapshot Version Syntax (same as Minecraft Snapshots now - see https://minecraft.gamepedia.com/Java_Edition_version_history/Development_versions)
 
 ### 21y01w4
 - added kfp pack info into windows title (de-de, en-us, en-gb and ja-jp (wip) only)

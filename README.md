@@ -6,7 +6,7 @@ a Kiara and Hololive themed Resource Pack for Minecraft
 ### :warning: You need [Optifine](https://optifine.net/home) to run this Pack properly
 
 ## Release
-You can find the newest Snapshots [here](https://github.com/kujxu/KFP-Pack/releases/latest)
+You can find the newest Snapshots [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest)
 
 ## Addons
-Sakura Addon (coming soon)
+[Sakura Trees and Wood](https://github.com/KiaraFriedPhoenix/KFP-Sakura)
