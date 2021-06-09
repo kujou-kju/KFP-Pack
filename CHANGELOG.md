@@ -15,6 +15,12 @@ since 12.01.2020 same as Minecraft Snapshots
 - see https://minecraft.gamepedia.com/Java_Edition_version_history/Development_versions for Syntax
 ```
 
+### 21w23a
+* Added Heart Challenger Disc and Tumbnail
+* Added Aikotoba III Disc and Tumbnail
+* Added Wah Wah World Thumbnail
+* Updated Documentation
+
 ### 21w02a
 - changed cooked chicken to kfp bucket
 - exclude all sakura content to an additional pack ("addon")
