@@ -19,6 +19,7 @@ You can find the newest Snapshots [here](https://github.com/KiaraFriedPhoenix/KF
 ## Addons
 [Sakura Trees and Wood](https://github.com/KiaraFriedPhoenix/KFP-Sakura)
 
-##Credits
+## Credits
 [ReducedTo21](https://twitter.com/ReducedTo21)
+
 [Sea_Kerman](https://www.reddit.com/user/Sea_Kerman)
