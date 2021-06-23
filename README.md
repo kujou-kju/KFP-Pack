@@ -12,6 +12,7 @@ a Kiara and Hololive themed Resource Pack for Minecraft.
 * Kiara Swords: Diamond and Netherite Sword are KFP themed.
 * Kiara Music: Select music discs are replaced with songs by or featuring [Takanashi Kiara](https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww).
 * Kiara Loading Screen (Optifine only): Replaces the Mojang logo with a KFP one. 
+* Kiara Painting: The painting's on the wall. It's KFP! Remember that you mustn't ever leave.
 * Ollie Zombie and Gura Drowned skin (Credits to [ReducedTo21](https://twitter.com/ReducedTo21))
 
 ## Release
@@ -24,3 +25,5 @@ You can find the newest Snapshots [here](https://github.com/KiaraFriedPhoenix/KF
 [ReducedTo21](https://twitter.com/ReducedTo21)
 
 [Sea_Kerman](https://www.reddit.com/user/Sea_Kerman)
+
+[Apollo](https://twitter.com/ppopularopinion)

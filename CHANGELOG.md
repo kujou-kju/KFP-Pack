@@ -15,6 +15,10 @@ since 12.01.2020 same as Minecraft Snapshots
 - see https://minecraft.gamepedia.com/Java_Edition_version_history/Development_versions for Syntax
 ```
 
+### 21w25b
+* Added KFP Paintings
+* Added Bokura no Ashiato
+
 ### 21w25a
 * Added Goodbye Declaration
 
