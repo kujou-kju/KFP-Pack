@@ -15,6 +15,9 @@ since 12.01.2020 same as Minecraft Snapshots
 - see https://minecraft.gamepedia.com/Java_Edition_version_history/Development_versions for Syntax
 ```
 
+### 21w25a
+* Added Goodbye Declaration
+
 ### 21w24a
 * Added Watch Only Me Disc and Thumbnail
 
