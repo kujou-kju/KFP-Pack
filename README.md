@@ -1,5 +1,6 @@
-[![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
 # Kiara Fried Phoenix Pack
+[![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
+
 a Kiara and Hololive themed Resource Pack for Minecraft.
 
 > ⚠️ Optifine is recommended to run this pack properly, running the pack without will result in a limited experience. Download it from [here](https://optifine.net/download)
@@ -17,13 +18,21 @@ a Kiara and Hololive themed Resource Pack for Minecraft.
 * Ollie Zombie and Gura Drowned skin (Credits to [ReducedTo21](https://twitter.com/ReducedTo21))
 
 ## Release
-You can find the newest Snapshots [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest).
-Relesae Builds coming soon
+You can find the newest Snapshots [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest). Relesae Builds coming soon
 
 ## Addons
 [Sakura Trees and Wood](https://github.com/KiaraFriedPhoenix/KFP-Sakura)
 
-## Credits
+## Updater
+coming soon...
+
+## Creators
+
+kujou - [GitHub](https://github.com/kujxu) • [Twitter](https://twitter.com/KujouKFP)
+
+kisachi5 - [Twitter](https://twitter.com/kisachi5)
+
+## Contributors and Credits
 [ReducedTo21](https://twitter.com/ReducedTo21)
 
 [Sea_Kerman](https://www.reddit.com/user/Sea_Kerman)
