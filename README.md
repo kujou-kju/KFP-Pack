@@ -4,7 +4,6 @@ a Kiara and Hololive themed Resource Pack for Minecraft.
 
 > ⚠️ Optifine is recommended to run this pack properly, running the pack without will result in a limited experience. Download it from [here](https://optifine.net/download)
 
-> ⚠️ This is the Snapshot Branch which is getting live Updates. Content is not final and suspect to change. To get the full experience we recomment using the [release](https://github.com/KiaraFriedPhoenix/KFP-Pack/tree/release) branch.
 ## What this pack changes
 * Kiara HUD: Changes the bottom HUD to Kiara themed colours (Orange and Teal).
 * Kiara Menue : Changes the menue diorama to scenes, adds KFP themed splashes, changes dirt background to orange wool.
