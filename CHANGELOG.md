@@ -15,6 +15,12 @@ since 12.01.2020 same as Minecraft Snapshots
 - see https://minecraft.fandom.com/wiki/Version_formats#Release for Syntax
 ```
 
+### 21w27a
+* fixed void.png painting
+* Main Menu background is now from the Ciudad del Fenix
+* Kiara's new song, Sparks, now replaces strad.
+* Soul Speed renamed to Ghost Strider
+
 ### 21w25c
 * Adjusted all KFP paintings to fit into the game more
 * All paintings now replaced with KFP paintings
