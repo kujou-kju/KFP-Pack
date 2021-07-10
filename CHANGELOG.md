@@ -12,8 +12,12 @@ Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of
 
 NEW:
 since 12.01.2020 same as Minecraft Snapshots
-- see https://minecraft.gamepedia.com/Java_Edition_version_history/Development_versions for Syntax
+- see https://minecraft.fandom.com/wiki/Version_formats#Release for Syntax
 ```
+
+### 21w25c
+* Adjusted all KFP paintings to fit into the game more
+* All paintings now replaced with KFP paintings
 
 ### 21w25b
 * Added KFP Paintings
