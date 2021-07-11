@@ -1,19 +1,18 @@
 # Changelogs
+## Releases
+### 1.0 (contains all previous Snapshot Changes)
+> Snapshots are canceled - smaller and not final changes will not longer be released unless we're going to to test something with it. Then it will be released as a pre-release
+* Mojang/Loading Screen change - Updated to Logo to the new one released in May (as announced by Kiara herself) - we modified it a bit and placed the text next to the Chicken Icon so it fits the loading screen better (THIS ONLY WORKS WITH OPTIFINE INSTALLED - Otherwise you will see the default Mojang Studios Screen)
+* Minecraft Realms Button Text changed - now shows the Resource Pack Version. Seriously who uses Minecraft Realms 🤷‍♀️
 
-> Attention! SNAPSHOT! This Pack is in a early state. Many resources aren't implemented yet.
-```
-Info - Snapshot Version Syntax:
-
-LEGACY:
-<year>y<week>w<day of week>r<revision-count*>
-Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of week)
-- Revision 1 (updated/fixed version released on same day)
-* Optional
-
-NEW:
-since 12.01.2020 same as Minecraft Snapshots
-- see https://minecraft.fandom.com/wiki/Version_formats#Release for Syntax
-```
+## Snapshots (deprecated\canceled)
+> Info - Snapshot Version Syntax:
+>
+> LEGACY: ```<year>y<week>w<day of week>r<revision-count>```
+> Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of week)
+> - Revision 1 (updated/fixed version released on same day)
+>
+> NEW: since 12.01.2020 same as Minecraft Snapshots: see https://minecraft.fandom.com/wiki/Version_formats#Release for Syntax
 
 ### 21w27a
 * fixed void.png painting
