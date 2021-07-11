@@ -1,3 +1,4 @@
+![](respack.png)
 # Kiara Fried Phoenix Pack
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
 
@@ -5,7 +6,7 @@ a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also c
 
 > ⚠️ Optifine is recommended to run this pack properly, running the pack without will result in a limited experience. Download it from [here](https://optifine.net/download)
 
-> ⚠️ This branch contains the lastest changes and may not be final and is suspect to change. To get the full experience we recomment downloading a release build instead of downloading the content of this branch directly.
+> ⚠️ The Files of this branch contains the lastest changes and may not be final. To get the full experience we recomment downloading a release build instead of downloading the content of this branch directly.
 ## What this pack changes
 * Kiara HUD: Changes the bottom HUD to Kiara themed colours (Orange and Teal).
 * Kiara Menue : Changes the menue diorama to scenes, adds KFP themed splashes, changes dirt background to orange wool.
