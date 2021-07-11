@@ -1,7 +1,7 @@
 # Kiara Fried Phoenix Pack
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
 
-a Kiara Takanashi (Hololive ENglish) themed Resource Pack for Minecraft - also contains other Hololive references.
+a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also contains other Hololive references.
 
 > ⚠️ Optifine is recommended to run this pack properly, running the pack without will result in a limited experience. Download it from [here](https://optifine.net/download)
 
