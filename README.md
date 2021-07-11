@@ -18,7 +18,7 @@ a Kiara and Hololive themed Resource Pack for Minecraft.
 * Ollie Zombie and Gura Drowned skin (Credits to [ReducedTo21](https://twitter.com/ReducedTo21))
 
 ## Release
-You can find the newest Releases and Snapshots [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest). Release Builds coming soon
+You can find the newest Releases and pre-releases [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest)
 
 ## Addons
 [Sakura Trees and Wood](https://github.com/KiaraFriedPhoenix/KFP-Sakura)
