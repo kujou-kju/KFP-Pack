@@ -1,5 +1,11 @@
 # Changelogs
 ## Releases
+### 1.0.1
+* shrinked the sound file sizes by half and with this the whole pack, also reduced the volume of the sound files since some of them were overdriven
+* removed snapshot info from the language packs (forgot to remove that in 1.0) - game window showed the pack still as snapshot
+* added new splash texts
+* zip releases does not include .gitignore and .psd and .xcf files anymore (another file size improvement - there are still available in the branch files)
+
 ### 1.0 (contains all previous Snapshot Changes)
 > Snapshots are canceled - smaller and not final changes will not longer be released unless we're going to to test something with it. Then it will be released as a pre-release
 * Mojang/Loading Screen change - Updated to Logo to the new one released in May (as announced by Kiara herself) - we modified it a bit and placed the text next to the Chicken Icon so it fits the loading screen better (THIS ONLY WORKS WITH OPTIFINE INSTALLED - Otherwise you will see the default Mojang Studios Screen)
