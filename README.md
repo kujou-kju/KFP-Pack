@@ -1,5 +1,5 @@
 ![](respack.png)
-# Kiara Fried Phoenix Pack
+# Kiara Fried Phoenix Pack (MC 1.16+)
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
 
 a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also contains other Hololive references.
@@ -22,10 +22,7 @@ a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also c
 You can find the newest Releases and pre-releases [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest)
 
 ## Addons
-[Sakura Trees and Wood](https://github.com/KiaraFriedPhoenix/KFP-Sakura)
-
-## Updater
-coming soon...
+Get a list of Addons [here](ADDONS.md)
 
 ## Creators
 
