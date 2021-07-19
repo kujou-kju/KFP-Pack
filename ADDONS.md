@@ -12,7 +12,7 @@ List of all currently availabe and upcoming Addons for the KFP-Pack
 
 ## Legacy Stuff for retro feelings (coming soon)
 
-[Old Loading Screen]()
+[Old Loading Screen](https://github.com/KiaraFriedPhoenix/Old-LoadingScreen)
 
 [Old Panorama Jan 21 - Vogelsang](https://github.com/KiaraFriedPhoenix/Old-PanJan21)
 
