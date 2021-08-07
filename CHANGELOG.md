@@ -1,19 +1,33 @@
 # Changelogs
+## Releases
+### 1.0.1
+* shrinked the sound file sizes by half and with this the whole pack, also reduced the volume of the sound files since some of them were overdriven
+* removed snapshot info from the language packs (forgot to remove that in 1.0) - game window showed the pack still as snapshot
+* added new splash texts
+* zip releases does not include .gitignore and .psd and .xcf files anymore (another file size improvement - there are still available in the branch files)
 
-> Attention! SNAPSHOT! This Pack is in a early state. Many resources aren't implemented yet.
-```
-Info - Snapshot Version Syntax:
+### 1.0 (contains all previous Snapshot Changes)
+> Snapshots are canceled - smaller and not final changes will not longer be released unless we're going to to test something with it. Then it will be released as a pre-release
+* Mojang/Loading Screen change - Updated to Logo to the new one released in May (as announced by Kiara herself) - we modified it a bit and placed the text next to the Chicken Icon so it fits the loading screen better (THIS ONLY WORKS WITH OPTIFINE INSTALLED - Otherwise you will see the default Mojang Studios Screen)
 
-LEGACY:
-<year>y<week>w<day of week>r<revision-count*>
-Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of week)
-- Revision 1 (updated/fixed version released on same day)
-* Optional
+## Snapshots (deprecated\canceled)
+> Info - Snapshot Version Syntax:
+>
+> LEGACY: ```<year>y<week>w<day of week>r<revision-count>```
+> Example: 20y53w6r3 - year 2020 - week 53 (last one in 2020) - Saturday (day 6 of week)
+> - Revision 1 (updated/fixed version released on same day)
+>
+> NEW: since 12.01.2020 same as Minecraft Snapshots: see https://minecraft.fandom.com/wiki/Version_formats#Release for Syntax
 
-NEW:
-since 12.01.2020 same as Minecraft Snapshots
-- see https://minecraft.gamepedia.com/Java_Edition_version_history/Development_versions for Syntax
-```
+### 21w27a
+* fixed void.png painting
+* Main Menu background is now from the Ciudad del Fenix
+* Kiara's new song, Sparks, now replaces strad.
+* Soul Speed renamed to Ghost Strider
+
+### 21w25c
+* Adjusted all KFP paintings to fit into the game more
+* All paintings now replaced with KFP paintings
 
 ### 21w25b
 * Added KFP Paintings
