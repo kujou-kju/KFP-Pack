@@ -18,8 +18,8 @@ a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also c
 * Kiara Painting: The painting's on the wall. It's KFP! Remember that you mustn't ever leave.
 * Ollie Zombie and Gura Drowned skin (Credits to [ReducedTo21](https://twitter.com/ReducedTo21))
 
-## Release
-You can find the newest Releases and pre-releases [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest)
+## Release (moved to CurseForge)
+You can find the newest Releases and pre-releases on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/kfp-pack/files) now.
 
 ## Addons
 Get a list of Addons [here](ADDONS.md)
