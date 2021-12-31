@@ -3,7 +3,7 @@
     "title.multiplayer.other": "Multiplayer (3rd-party Server) | Kiara Fried Phoenix Pack",
     "title.multiplayer.realms": "Multiplayer (Realms) | Kiara Fried Phoenix Pack",
     "title.singleplayer": "Singleplayer | Kiara Fried Phoenix Pack",
-    "item.minecraft.baked_potato": "KFP Chips",
+    "item.minecraft.baked_potato": "KFP French Fries",
     "item.minecraft.music_disc_13.desc": "Takanashi Kiara - HINOTORI",
     "item.minecraft.music_disc_stal.desc": "Takanashi Kiara - HINOKERO",
     "item.minecraft.music_disc_cat.desc": "Takanashi Kiara ft. Callilope Mori - Wah Wah World (Cover)",
@@ -12,6 +12,8 @@
 	"item.minecraft.music_disc_far.desc": "BlazeZubark ft. Takanashi Kiara - Watch Only Me",
 	"item.minecraft.music_disc_mall.desc": "Takanashi Kiara - Goodbye Declaration",
 	"item.minecraft.music_disc_mellohi.desc": "Takanashi Kiara - Bokura No Ashiato (Acoustic Cover)",
+        "item.minecraft.music_disc_strad.desc": "Takanashi Kiara - SPARKS",
+        "item.minecraft.music_disc_ward.desc": "Deemo Harlos - The Phoenix Will Go On (Hinotori Orchestral Arrangement)",
 	"enchantment.minecraft.soul_speed": "Ghost Strider",
     "item.minecraft.cooked_chicken": "KFP Chicken Wings"
 }
