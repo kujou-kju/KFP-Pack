@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "{'text':'H','bold':true,'color':'#FE3F3F'},{'text':'a','bold':true,'color':'#F23F4A'},{'text':'p','bold':true,'color':'#E63F56'},{'text':'p','bold':true,'color':'#DA3F62'},{'text':'y ','bold':true,'color':'#CE3F6E'},{'text':'n','bold':true,'color':'#C23F7A'},{'text':'e','bold':true,'color':'#B63F86'},{'text':'w ','bold':true,'color':'#AA3F92'},{'text':'y','bold':true,'color':'#9E3F9E'},{'text':'e','bold':true,'color':'#923FAA'},{'text':'a','bold':true,'color':'#863FB6'},{'text':'r ','bold':true,'color':'#7A3FC2'},{'text':'\u2022 ','bold':true,'color':'#6E3FCE'},{'text':'2','bold':true,'color':'#623FDA'},{'text':'0','bold':true,'color':'#563FE6'},{'text':'2','bold':true,'color':'#4A3FF2'},{'text':'2','bold':true,'color':'#3F3FFE'}",
+    "description": "§c§lHappy §d§lnew §6§lyear §r§l• §a§l2022",
     "desc-ref": "https://minecraft.tools/de/json_text.php?json=%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3Ea%20%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%2355FFFF%22%3EResource%20Pack%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3E%20made%20by%3Cbr%20%2F%3E%26nbsp%3Bthe%20%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23FFAA00%22%3EKFP%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3E%20%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%235555FF%22%3ECommunity%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23AAAAAA%22%3E%20%7C%20v.%3C%2Fspan%3E%3Cspan%20style%3D%22color%3A%23FF5555%22%3EGitHub-live%3C%2Fspan%3E"
   }
 }
